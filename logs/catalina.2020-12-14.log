@@ -1,0 +1,605 @@
+12 14, 2020 09:29:45 上午 cn.how2j.diytomcat.Bootstrap logJVM
+INFO : Server version:		How2j DiyTomcat/1.0.1
+12 14, 2020 09:29:45 上午 cn.how2j.diytomcat.Bootstrap logJVM
+INFO : Server built:		2020-12-13 18:28:50
+12 14, 2020 09:29:45 上午 cn.how2j.diytomcat.Bootstrap logJVM
+INFO : Server number:		1.0.1
+12 14, 2020 09:29:45 上午 cn.how2j.diytomcat.Bootstrap logJVM
+INFO : OS Name	:		Windows 10
+12 14, 2020 09:29:45 上午 cn.how2j.diytomcat.Bootstrap logJVM
+INFO : OS Version:		10.0
+12 14, 2020 09:29:45 上午 cn.how2j.diytomcat.Bootstrap logJVM
+INFO : Architecture:		amd64
+12 14, 2020 09:29:45 上午 cn.how2j.diytomcat.Bootstrap logJVM
+INFO : Java Home:		C:\Program Files\Java\jdk1.8.0_144\jre
+12 14, 2020 09:29:45 上午 cn.how2j.diytomcat.Bootstrap logJVM
+INFO : JVM Version:		1.8.0_144-b01
+12 14, 2020 09:29:45 上午 cn.how2j.diytomcat.Bootstrap logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 14, 2020 09:29:46 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:\project6\diytomcat\webapps\a
+12 14, 2020 09:29:46 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:\project6\diytomcat\webapps\a has finished in 0 ms
+12 14, 2020 09:29:46 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:\project6\diytomcat\webapps\ROOT
+12 14, 2020 09:29:46 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:\project6\diytomcat\webapps\ROOT has finished in 1 ms
+12 14, 2020 09:29:46 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:/project6/diytomcat/b
+12 14, 2020 09:29:46 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:/project6/diytomcat/b has finished in 0 ms
+12 14, 2020 16:08:42 下午 cn.how2j.diytomcat.Bootstrap logJVM
+INFO : Server version:		How2j DiyTomcat/1.0.1
+12 14, 2020 16:08:42 下午 cn.how2j.diytomcat.Bootstrap logJVM
+INFO : Server built:		2020-12-13 18:28:50
+12 14, 2020 16:08:42 下午 cn.how2j.diytomcat.Bootstrap logJVM
+INFO : Server number:		1.0.1
+12 14, 2020 16:08:42 下午 cn.how2j.diytomcat.Bootstrap logJVM
+INFO : OS Name	:		Windows 10
+12 14, 2020 16:08:42 下午 cn.how2j.diytomcat.Bootstrap logJVM
+INFO : OS Version:		10.0
+12 14, 2020 16:08:42 下午 cn.how2j.diytomcat.Bootstrap logJVM
+INFO : Architecture:		amd64
+12 14, 2020 16:08:42 下午 cn.how2j.diytomcat.Bootstrap logJVM
+INFO : Java Home:		C:\Program Files\Java\jdk1.8.0_144\jre
+12 14, 2020 16:08:42 下午 cn.how2j.diytomcat.Bootstrap logJVM
+INFO : JVM Version:		1.8.0_144-b01
+12 14, 2020 16:08:42 下午 cn.how2j.diytomcat.Bootstrap logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 14, 2020 16:08:42 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:\project6\diytomcat\webapps\a
+12 14, 2020 16:08:42 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:\project6\diytomcat\webapps\a has finished in 0 ms
+12 14, 2020 16:08:42 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:\project6\diytomcat\webapps\ROOT
+12 14, 2020 16:08:42 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:\project6\diytomcat\webapps\ROOT has finished in 0 ms
+12 14, 2020 16:08:42 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:/project6/diytomcat/b
+12 14, 2020 16:08:42 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:/project6/diytomcat/b has finished in 0 ms
+12 14, 2020 16:24:02 下午 cn.how2j.diytomcat.Bootstrap logJVM
+INFO : Server version:		How2j DiyTomcat/1.0.1
+12 14, 2020 16:24:02 下午 cn.how2j.diytomcat.Bootstrap logJVM
+INFO : Server built:		2020-12-13 18:28:50
+12 14, 2020 16:24:02 下午 cn.how2j.diytomcat.Bootstrap logJVM
+INFO : Server number:		1.0.1
+12 14, 2020 16:24:02 下午 cn.how2j.diytomcat.Bootstrap logJVM
+INFO : OS Name	:		Windows 10
+12 14, 2020 16:24:02 下午 cn.how2j.diytomcat.Bootstrap logJVM
+INFO : OS Version:		10.0
+12 14, 2020 16:24:02 下午 cn.how2j.diytomcat.Bootstrap logJVM
+INFO : Architecture:		amd64
+12 14, 2020 16:24:02 下午 cn.how2j.diytomcat.Bootstrap logJVM
+INFO : Java Home:		C:\Program Files\Java\jdk1.8.0_144\jre
+12 14, 2020 16:24:02 下午 cn.how2j.diytomcat.Bootstrap logJVM
+INFO : JVM Version:		1.8.0_144-b01
+12 14, 2020 16:24:02 下午 cn.how2j.diytomcat.Bootstrap logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 14, 2020 16:24:02 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:\project6\diytomcat\webapps\a
+12 14, 2020 16:24:02 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:\project6\diytomcat\webapps\a has finished in 0 ms
+12 14, 2020 16:24:02 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:\project6\diytomcat\webapps\ROOT
+12 14, 2020 16:24:02 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:\project6\diytomcat\webapps\ROOT has finished in 1 ms
+12 14, 2020 16:24:02 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:/project6/diytomcat/b
+12 14, 2020 16:24:02 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:/project6/diytomcat/b has finished in 0 ms
+12 14, 2020 16:37:04 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:\project6\diytomcat\webapps\a
+12 14, 2020 16:37:04 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:\project6\diytomcat\webapps\a has finished in 92 ms
+12 14, 2020 16:37:04 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:\project6\diytomcat\webapps\ROOT
+12 14, 2020 16:37:04 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:\project6\diytomcat\webapps\ROOT has finished in 0 ms
+12 14, 2020 16:37:04 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:/project6/diytomcat/b
+12 14, 2020 16:37:04 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:/project6/diytomcat/b has finished in 0 ms
+12 14, 2020 16:37:04 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2j DiyTomcat/1.0.1
+12 14, 2020 16:37:04 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-12-13 18:28:50
+12 14, 2020 16:37:04 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+12 14, 2020 16:37:04 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+12 14, 2020 16:37:04 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+12 14, 2020 16:37:04 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+12 14, 2020 16:37:04 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Java Home:		C:\Program Files\Java\jdk1.8.0_144\jre
+12 14, 2020 16:37:04 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_144-b01
+12 14, 2020 16:37:04 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 14, 2020 17:03:41 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:\project6\diytomcat\webapps\a
+12 14, 2020 17:03:41 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:\project6\diytomcat\webapps\a has finished in 109 ms
+12 14, 2020 17:03:41 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:\project6\diytomcat\webapps\ROOT
+12 14, 2020 17:03:41 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:\project6\diytomcat\webapps\ROOT has finished in 0 ms
+12 14, 2020 17:03:41 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:/project6/diytomcat/b
+12 14, 2020 17:03:41 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:/project6/diytomcat/b has finished in 1 ms
+12 14, 2020 17:03:41 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2j DiyTomcat/1.0.1
+12 14, 2020 17:03:41 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-12-13 18:28:50
+12 14, 2020 17:03:41 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+12 14, 2020 17:03:41 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+12 14, 2020 17:03:41 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+12 14, 2020 17:03:41 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+12 14, 2020 17:03:41 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Java Home:		C:\Program Files\Java\jdk1.8.0_144\jre
+12 14, 2020 17:03:41 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_144-b01
+12 14, 2020 17:03:41 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 14, 2020 18:32:11 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:\project6\diytomcat\webapps\a
+12 14, 2020 18:32:11 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:\project6\diytomcat\webapps\a has finished in 98 ms
+12 14, 2020 18:32:11 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:\project6\diytomcat\webapps\ROOT
+12 14, 2020 18:32:11 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:\project6\diytomcat\webapps\ROOT has finished in 0 ms
+12 14, 2020 18:32:11 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:/project6/diytomcat/b
+12 14, 2020 18:32:11 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:/project6/diytomcat/b has finished in 0 ms
+12 14, 2020 18:32:11 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2j DiyTomcat/1.0.1
+12 14, 2020 18:32:11 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-12-13 18:28:50
+12 14, 2020 18:32:11 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+12 14, 2020 18:32:11 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+12 14, 2020 18:32:11 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+12 14, 2020 18:32:11 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+12 14, 2020 18:32:11 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Java Home:		C:\Program Files\Java\jdk1.8.0_144\jre
+12 14, 2020 18:32:11 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_144-b01
+12 14, 2020 18:32:11 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 14, 2020 18:32:16 下午 cn.how2j.diytomcat.catalina.Server error
+ERROR: this is a deliberately created exception
+java.lang.Exception: this is a deliberately created exception
+	at cn.how2j.diytomcat.catalina.Server.lambda$init$0(Server.java:75)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 14, 2020 18:57:20 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:\project6\diytomcat\webapps\a
+12 14, 2020 18:57:20 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:\project6\diytomcat\webapps\a has finished in 168 ms
+12 14, 2020 18:57:20 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:\project6\diytomcat\webapps\ROOT
+12 14, 2020 18:57:20 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:\project6\diytomcat\webapps\ROOT has finished in 1 ms
+12 14, 2020 18:57:20 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:/project6/diytomcat/b
+12 14, 2020 18:57:20 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:/project6/diytomcat/b has finished in 0 ms
+12 14, 2020 18:57:20 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2j DiyTomcat/1.0.1
+12 14, 2020 18:57:20 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-12-13 18:28:50
+12 14, 2020 18:57:20 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+12 14, 2020 18:57:20 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+12 14, 2020 18:57:20 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+12 14, 2020 18:57:20 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+12 14, 2020 18:57:20 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Java Home:		C:\Program Files\Java\jdk1.8.0_144\jre
+12 14, 2020 18:57:20 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_144-b01
+12 14, 2020 18:57:20 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 14, 2020 18:57:24 下午 cn.how2j.diytomcat.catalina.Server error
+ERROR: this is a deliberately created exception
+java.lang.Exception: this is a deliberately created exception
+	at cn.how2j.diytomcat.catalina.Server.lambda$init$0(Server.java:76)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 14, 2020 19:20:46 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:\project6\diytomcat\webapps\a
+12 14, 2020 19:20:46 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:\project6\diytomcat\webapps\a has finished in 97 ms
+12 14, 2020 19:20:46 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:\project6\diytomcat\webapps\ROOT
+12 14, 2020 19:20:46 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:\project6\diytomcat\webapps\ROOT has finished in 1 ms
+12 14, 2020 19:20:46 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:/project6/diytomcat/b
+12 14, 2020 19:20:46 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:/project6/diytomcat/b has finished in 0 ms
+12 14, 2020 19:20:46 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2j DiyTomcat/1.0.1
+12 14, 2020 19:20:46 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-12-13 18:28:50
+12 14, 2020 19:20:46 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+12 14, 2020 19:20:46 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+12 14, 2020 19:20:46 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+12 14, 2020 19:20:46 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+12 14, 2020 19:20:46 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Java Home:		C:\Program Files\Java\jdk1.8.0_144\jre
+12 14, 2020 19:20:46 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_144-b01
+12 14, 2020 19:20:46 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 14, 2020 19:20:52 下午 cn.how2j.diytomcat.catalina.Server error
+ERROR: this is a deliberately created exception
+java.lang.Exception: this is a deliberately created exception
+	at cn.how2j.diytomcat.catalina.Server.lambda$init$0(Server.java:76)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 14, 2020 19:22:37 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:\project6\diytomcat\webapps\a
+12 14, 2020 19:22:37 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:\project6\diytomcat\webapps\a has finished in 153 ms
+12 14, 2020 19:22:37 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:\project6\diytomcat\webapps\ROOT
+12 14, 2020 19:22:37 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:\project6\diytomcat\webapps\ROOT has finished in 1 ms
+12 14, 2020 19:22:37 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:/project6/diytomcat/b
+12 14, 2020 19:22:37 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:/project6/diytomcat/b has finished in 0 ms
+12 14, 2020 19:22:37 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2j DiyTomcat/1.0.1
+12 14, 2020 19:22:37 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-12-13 18:28:50
+12 14, 2020 19:22:37 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+12 14, 2020 19:22:37 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+12 14, 2020 19:22:37 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+12 14, 2020 19:22:37 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+12 14, 2020 19:22:37 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Java Home:		C:\Program Files\Java\jdk1.8.0_144\jre
+12 14, 2020 19:22:37 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_144-b01
+12 14, 2020 19:22:37 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 14, 2020 19:22:43 下午 cn.how2j.diytomcat.catalina.Server error
+ERROR: this is a deliberately created exception
+java.lang.Exception: this is a deliberately created exception
+	at cn.how2j.diytomcat.catalina.Server.lambda$init$0(Server.java:76)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 14, 2020 19:23:14 下午 cn.how2j.diytomcat.catalina.Server error
+ERROR: this is a deliberately created exception
+java.lang.Exception: this is a deliberately created exception
+	at cn.how2j.diytomcat.catalina.Server.lambda$init$0(Server.java:76)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 14, 2020 19:30:30 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:\project6\diytomcat\webapps\a
+12 14, 2020 19:30:30 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:\project6\diytomcat\webapps\a has finished in 91 ms
+12 14, 2020 19:30:30 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:\project6\diytomcat\webapps\ROOT
+12 14, 2020 19:30:30 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:\project6\diytomcat\webapps\ROOT has finished in 0 ms
+12 14, 2020 19:30:30 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:/project6/diytomcat/b
+12 14, 2020 19:30:30 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:/project6/diytomcat/b has finished in 1 ms
+12 14, 2020 19:30:30 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2j DiyTomcat/1.0.1
+12 14, 2020 19:30:30 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-12-13 18:28:50
+12 14, 2020 19:30:30 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+12 14, 2020 19:30:30 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+12 14, 2020 19:30:30 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+12 14, 2020 19:30:30 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+12 14, 2020 19:30:30 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Java Home:		C:\Program Files\Java\jdk1.8.0_144\jre
+12 14, 2020 19:30:30 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_144-b01
+12 14, 2020 19:30:30 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 14, 2020 19:30:36 下午 cn.how2j.diytomcat.catalina.Server error
+ERROR: this is a deliberately created exception
+java.lang.Exception: this is a deliberately created exception
+	at cn.how2j.diytomcat.catalina.Server.lambda$init$0(Server.java:76)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 14, 2020 19:38:22 下午 cn.how2j.diytomcat.catalina.Server error
+ERROR: this is a deliberately created exception
+java.lang.Exception: this is a deliberately created exception
+	at cn.how2j.diytomcat.catalina.Server.lambda$init$0(Server.java:76)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 14, 2020 19:38:29 下午 cn.how2j.diytomcat.catalina.Server error
+ERROR: this is a deliberately created exception
+java.lang.Exception: this is a deliberately created exception
+	at cn.how2j.diytomcat.catalina.Server.lambda$init$0(Server.java:76)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 14, 2020 19:52:52 下午 cn.how2j.diytomcat.catalina.Server error
+ERROR: this is a deliberately created exception
+java.lang.Exception: this is a deliberately created exception
+	at cn.how2j.diytomcat.catalina.Server.lambda$init$0(Server.java:76)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 14, 2020 19:53:07 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:\project6\diytomcat\webapps\a
+12 14, 2020 19:53:07 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:\project6\diytomcat\webapps\a has finished in 101 ms
+12 14, 2020 19:53:07 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:\project6\diytomcat\webapps\ROOT
+12 14, 2020 19:53:07 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:\project6\diytomcat\webapps\ROOT has finished in 1 ms
+12 14, 2020 19:53:07 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:/project6/diytomcat/b
+12 14, 2020 19:53:07 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:/project6/diytomcat/b has finished in 1 ms
+12 14, 2020 19:53:07 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2j DiyTomcat/1.0.1
+12 14, 2020 19:53:07 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-12-13 18:28:50
+12 14, 2020 19:53:07 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+12 14, 2020 19:53:07 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+12 14, 2020 19:53:07 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+12 14, 2020 19:53:07 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+12 14, 2020 19:53:07 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Java Home:		C:\Program Files\Java\jdk1.8.0_144\jre
+12 14, 2020 19:53:07 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_144-b01
+12 14, 2020 19:53:07 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 14, 2020 19:53:17 下午 cn.how2j.diytomcat.catalina.Server error
+ERROR: this is a deliberately created exception
+java.lang.Exception: this is a deliberately created exception
+	at cn.how2j.diytomcat.catalina.Server.lambda$init$0(Server.java:76)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 14, 2020 20:22:32 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:\project6\diytomcat\webapps\a
+12 14, 2020 20:22:32 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:\project6\diytomcat\webapps\a has finished in 101 ms
+12 14, 2020 20:22:32 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:\project6\diytomcat\webapps\ROOT
+12 14, 2020 20:22:32 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:\project6\diytomcat\webapps\ROOT has finished in 1 ms
+12 14, 2020 20:22:32 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:/project6/diytomcat/b
+12 14, 2020 20:22:32 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:/project6/diytomcat/b has finished in 0 ms
+12 14, 2020 20:22:32 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2j DiyTomcat/1.0.1
+12 14, 2020 20:22:32 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-12-13 18:28:50
+12 14, 2020 20:22:32 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+12 14, 2020 20:22:32 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+12 14, 2020 20:22:32 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+12 14, 2020 20:22:32 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+12 14, 2020 20:22:32 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Java Home:		C:\Program Files\Java\jdk1.8.0_144\jre
+12 14, 2020 20:22:32 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_144-b01
+12 14, 2020 20:22:32 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 14, 2020 20:22:42 下午 cn.how2j.diytomcat.catalina.Server error
+ERROR: this is a deliberately created exception
+java.lang.Exception: this is a deliberately created exception
+	at cn.how2j.diytomcat.catalina.Server.lambda$init$0(Server.java:76)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 14, 2020 20:47:14 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:\project6\diytomcat\webapps\a
+12 14, 2020 20:47:14 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:\project6\diytomcat\webapps\a has finished in 97 ms
+12 14, 2020 20:47:14 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:\project6\diytomcat\webapps\ROOT
+12 14, 2020 20:47:14 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:\project6\diytomcat\webapps\ROOT has finished in 0 ms
+12 14, 2020 20:47:14 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:/project6/diytomcat/b
+12 14, 2020 20:47:14 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:/project6/diytomcat/b has finished in 0 ms
+12 14, 2020 20:47:14 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2j DiyTomcat/1.0.1
+12 14, 2020 20:47:14 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-12-13 18:28:50
+12 14, 2020 20:47:14 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+12 14, 2020 20:47:14 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+12 14, 2020 20:47:14 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+12 14, 2020 20:47:14 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+12 14, 2020 20:47:14 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Java Home:		C:\Program Files\Java\jdk1.8.0_144\jre
+12 14, 2020 20:47:14 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_144-b01
+12 14, 2020 20:47:14 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 14, 2020 20:47:14 下午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+12 14, 2020 20:47:14 下午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+12 14, 2020 20:47:14 下午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+12 14, 2020 20:47:14 下午 cn.how2j.diytomcat.catalina.Service init
+INFO : Initialization processed in 1 ms
+12 14, 2020 20:47:14 下午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+12 14, 2020 20:47:14 下午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+12 14, 2020 20:47:14 下午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+12 14, 2020 20:47:14 下午 cn.how2j.diytomcat.catalina.Server start
+INFO : Server startup in 4 ms
+12 14, 2020 20:48:02 下午 cn.how2j.diytomcat.catalina.Connector error
+ERROR: this is a deliberately created exception
+java.lang.Exception: this is a deliberately created exception
+	at cn.how2j.diytomcat.catalina.Connector.lambda$run$0(Connector.java:88)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 14, 2020 20:48:17 下午 cn.how2j.diytomcat.catalina.Connector error
+ERROR: this is a deliberately created exception
+java.lang.Exception: this is a deliberately created exception
+	at cn.how2j.diytomcat.catalina.Connector.lambda$run$0(Connector.java:88)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 14, 2020 21:01:41 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:\project6\diytomcat\webapps\a
+12 14, 2020 21:01:41 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:\project6\diytomcat\webapps\a has finished in 88 ms
+12 14, 2020 21:01:41 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:\project6\diytomcat\webapps\ROOT
+12 14, 2020 21:01:41 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:\project6\diytomcat\webapps\ROOT has finished in 0 ms
+12 14, 2020 21:01:41 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:/project6/diytomcat/b
+12 14, 2020 21:01:41 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:/project6/diytomcat/b has finished in 1 ms
+12 14, 2020 21:01:41 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2j DiyTomcat/1.0.1
+12 14, 2020 21:01:41 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-12-13 18:28:50
+12 14, 2020 21:01:41 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+12 14, 2020 21:01:41 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+12 14, 2020 21:01:41 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+12 14, 2020 21:01:41 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+12 14, 2020 21:01:41 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Java Home:		C:\Program Files\Java\jdk1.8.0_144\jre
+12 14, 2020 21:01:41 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_144-b01
+12 14, 2020 21:01:41 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 14, 2020 21:01:41 下午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+12 14, 2020 21:01:41 下午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+12 14, 2020 21:01:41 下午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+12 14, 2020 21:01:41 下午 cn.how2j.diytomcat.catalina.Service init
+INFO : Initialization processed in 2 ms
+12 14, 2020 21:01:41 下午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+12 14, 2020 21:01:41 下午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+12 14, 2020 21:01:41 下午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+12 14, 2020 21:01:41 下午 cn.how2j.diytomcat.catalina.Server start
+INFO : Server startup in 6 ms
+12 14, 2020 21:01:49 下午 cn.how2j.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.Exception: this is a deliberately created exception
+	at cn.how2j.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:45)
+	at cn.how2j.diytomcat.catalina.Connector.lambda$run$0(Connector.java:78)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 14, 2020 21:02:31 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:\project6\diytomcat\webapps\a
+12 14, 2020 21:02:31 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:\project6\diytomcat\webapps\a has finished in 105 ms
+12 14, 2020 21:02:31 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:\project6\diytomcat\webapps\ROOT
+12 14, 2020 21:02:31 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:\project6\diytomcat\webapps\ROOT has finished in 0 ms
+12 14, 2020 21:02:31 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory F:/project6/diytomcat/b
+12 14, 2020 21:02:31 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory F:/project6/diytomcat/b has finished in 0 ms
+12 14, 2020 21:02:31 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2j DiyTomcat/1.0.1
+12 14, 2020 21:02:31 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-12-13 18:28:50
+12 14, 2020 21:02:31 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+12 14, 2020 21:02:31 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+12 14, 2020 21:02:31 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+12 14, 2020 21:02:31 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+12 14, 2020 21:02:31 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Java Home:		C:\Program Files\Java\jdk1.8.0_144\jre
+12 14, 2020 21:02:31 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_144-b01
+12 14, 2020 21:02:31 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 14, 2020 21:02:31 下午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+12 14, 2020 21:02:31 下午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+12 14, 2020 21:02:31 下午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+12 14, 2020 21:02:31 下午 cn.how2j.diytomcat.catalina.Service init
+INFO : Initialization processed in 2 ms
+12 14, 2020 21:02:31 下午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+12 14, 2020 21:02:31 下午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+12 14, 2020 21:02:31 下午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+12 14, 2020 21:02:31 下午 cn.how2j.diytomcat.catalina.Server start
+INFO : Server startup in 5 ms
+12 14, 2020 21:02:35 下午 cn.how2j.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.Exception: this is a deliberately created exception
+	at cn.how2j.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:45)
+	at cn.how2j.diytomcat.catalina.Connector.lambda$run$0(Connector.java:78)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
